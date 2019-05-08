@@ -69,7 +69,7 @@
       <p class="c1" id="h.gjdgxs"><span class="c2">1) &#52395; &#54840;&#52636; &#49884;, &#51593; convertView&#44032; null&#51068; &#44221;&#50864;&#50640;&#47564; </span></p>
       <p class="c1"><span class="c2">a)Layout Inflate b)findViewById()&#54840;&#52636; viewHolder&#50640; &#51200;&#51109; c)convertView.setTag(viewHolder)&#54840;&#52636;, tag&#47484; &#44592;&#47197;&#54616;&#45716; &#44284;&#51221;&#51012; &#44144;&#52824;&#44256;</span></p>
       <p class="c1 c7"><span class="c2"></span></p>
-      <p class="c1"><span class="c2">2) 갱신시에는 즉 convertView가 null이 아닌 경우에는 viewHolder = (ViewHolder) rowView.getTag(); 형식으로 viewHolder의 태그 정보를 가져와서 viewHolder에 저장 이후에 실제 해당 View(여기선 TextView)에 커스텀 데이터 클래스내 관련 변수를 setText()형식으로 View에 기록 최종적으로 보여준다.
+      <p class="c1"><span class="c2">2) 갱신시에는 즉 convertView가 null이 아닌 경우에는 viewHolder = (ViewHolder) rowView.getTag(); 형식으로 viewHolder의 태그 정보를 가져와서 viewHolder에 저장한 이후에 실제 해당 View(여기선 TextView)에 커스텀 데이터 클래스내 관련 변수를 setText()형식으로 View에 기록 최종적으로 보여준다.
       <p class="c1"><span>&#52280;&#44256;) &nbsp;</span><span class="c5"><a class="c9" href="https://www.google.com/url?q=https://developer.android.com/training/improving-layouts/smooth-scrolling.html%23ViewHolder&amp;sa=D&amp;ust=1557289977543000">https://developer.android.com/training/improving-layouts/smooth-scrolling.html - ViewHolder</a></span></p>
       <p class="c1 c7"><span class="c2"></span></p>
       <p class="c1"><span class="c2">4. &#49892;&#54665; &#44208;&#44284;</span></p>
