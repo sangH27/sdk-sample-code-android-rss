@@ -30,7 +30,7 @@
       <p class="c1"><span class="c2">&lt;p class=&quot;txt_post&quot;&gt;{%}&lt;/p&gt;{*}</span></p>
       <p class="c1"><span class="c2">&lt;/a&gt;{*}</span></p>
       <p class="c1"><span class="c2">&lt;/div&gt;</span></p>
-      <p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 616.73px; height: 411.47px;"><img alt="" src="images/image2.png" width= 616.73px height= 411.47px></span><span class="c2">Fig3. Feed43 &#50577;&#49885; &#51089;&#49457;</span></p>
+      <p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 616.73px; height: 411.47px;"><img alt="" src="images/image2.png" width= 616.73px height= 411.47px></span><span class="c2">Fig3. Feed43 format</span></p>
       <p class="c1"><span class="c2">2-4. Data Fetch : RSS Feed to Application</span></p>
       <p class="c1"><span class="c2">Step A. HttpURLConnection with URL<br>Step C. inputstream = BufferedInputStream with B &nbsp;<br>Step D. readStream with inputstream which step C returns <br>Step E. Returns data which is prototype of RSS feed</span></p>
       <p class="c1"><span class="c2">The fetched data is encoded in UTF-8 and the result is shown below.</span></p>
@@ -43,6 +43,6 @@
    </head>
       <p class="c1 c7"><span class="c2"></span></p>
       <p class="c1 c7"><span class="c2"></span></p>
-      <p class="c1"><span class="c2">4. &#49892;&#54665; &#44208;&#44284;</span></p>
+      <p class="c1"><span class="c2">4. Results</span></p>
       <p class="c1" align="center"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 284.48px; height: 463.84px;"><img alt="" src="images/image5.png" width= 284.48px height= 463.84px></span><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 268.38px; height: 477.01px;"><img alt="" src="images/image4.jpg" width= 268.38px height= 477.01px></span></p>
       <p class="c1 c8" align="center"><span class="c2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fig4. ListVeiw &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fig5. &#46944;&#48176;&#45320; &#54840;&#52636; &#44208;&#44284;</span></p>
